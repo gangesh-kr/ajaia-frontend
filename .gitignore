@@ -5,5 +5,5 @@ coverage/
 .env
 .env.local
 .env.production
-
+.next
 *.log
